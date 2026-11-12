@@ -1,2 +1,4 @@
 Dear students,  
 The capital of France is Paris.
+Knowledge source: the LLM's own pretrained general knowledge supplied the fact (Paris) -- no external knowledge was given to this agent, only a persona.
+Persona effect: the 'college professor' persona changed the greeting and tone of the response -- it opens with 'Dear students,' and reads in a more professorial voice -- but it did not change the underlying fact, since the capital of France is common knowledge the model already has.

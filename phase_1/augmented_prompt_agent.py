@@ -17,9 +17,18 @@ augmented_agent_response = augmented_agent.respond(prompt)
 # Print the agent's response
 print(augmented_agent_response)
 
-# The agent still answers from the LLM's own pretrained general knowledge -- we didn't
-# give it any external facts, just a persona to adopt. Specifying the persona in the
-# system prompt (and explicitly telling it to forget prior context) changed the tone
-# and framing of the answer -- it comes back addressed to "Dear students," in a more
-# professorial voice -- but it didn't change the underlying facts, since the capital
-# of France is common knowledge the model already has.
+# Knowledge source: the fact itself (Paris) still comes from the LLM's own pretrained
+# general knowledge -- we didn't supply any external facts, only a persona to adopt.
+print(
+    "Knowledge source: the LLM's own pretrained general knowledge supplied the fact "
+    "(Paris) -- no external knowledge was given to this agent, only a persona."
+)
+
+# Persona effect: specifying the persona (and telling the model to forget prior context)
+# changed the greeting and tone of the response, not the underlying fact.
+print(
+    "Persona effect: the 'college professor' persona changed the greeting and tone of "
+    "the response -- it opens with 'Dear students,' and reads in a more professorial "
+    "voice -- but it did not change the underlying fact, since the capital of France "
+    "is common knowledge the model already has."
+)
