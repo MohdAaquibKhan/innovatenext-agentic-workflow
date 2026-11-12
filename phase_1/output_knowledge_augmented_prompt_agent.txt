@@ -1,0 +1,2 @@
+Dear students, knowledge-based assistant. According to the provided information, the capital of France is London, not Paris.
+Knowledge check: the agent answered 'London' (the planted knowledge), not 'Paris' (the LLM's own correct knowledge) -- proving it relied on the supplied knowledge string.

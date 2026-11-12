@@ -1,0 +1,2 @@
+The capital of France is Paris.
+Knowledge source: the LLM's own pretrained general knowledge (no persona or external knowledge was supplied to this agent).

@@ -1,0 +1,29 @@
+0.38575450269853256
+0.1649701687495782
+0.002634527405910627
+[Router] Best agent: texas agent (score=0.386)
+Rome, Texas, is a small unincorporated community located in Fannin County in the northeastern part of the state. Its history dates back to the mid-19th century when settlers were moving into the area. The community was established primarily as an agricultural settlement, with farming and ranching as the main economic activities.
+
+Rome served as a local hub for the surrounding rural area, featuring a post office, schools, churches, and small businesses that supported the farming community. Over time, as transportation and economic patterns changed, Rome remained a quiet, rural community without significant urban development.
+
+While it never grew into a large town or city, Rome, Texas, reflects the broader history of rural settlement in northeastern Texas, characterized by small, close-knit communities centered around agriculture and local institutions.
+0.14363952088456433
+0.2880336377348315
+0.032039607819576446
+[Router] Best agent: europe agent (score=0.288)
+Rome, Italy, has a rich and extensive history that spans over two and a half thousand years. It was founded, according to legend, in 753 BCE by Romulus and Remus. Rome began as a small settlement on the Tiber River and grew into a powerful city-state.
+
+During the Roman Kingdom period (753–509 BCE), Rome was ruled by kings. This era ended with the establishment of the Roman Republic in 509 BCE, characterized by a complex system of checks and balances and governance by elected officials. The Republic expanded its territory through military conquest and alliances, becoming a dominant power in the Mediterranean.
+
+In 27 BCE, the Roman Republic transitioned into the Roman Empire with Augustus as its first emperor. The Empire reached its peak under emperors like Trajan and Hadrian, controlling vast territories across Europe, North Africa, and the Middle East. Rome was the political and cultural center of the empire, known for its architecture, law, and engineering.
+
+The Western Roman Empire declined due to internal strife, economic troubles, and invasions by barbarian tribes, culminating in its fall in 476 CE. However, the Eastern Roman Empire, or Byzantine Empire, continued for nearly a thousand years.
+
+During the Middle Ages, Rome became the center of the Roman Catholic Church and the Papal States. The Renaissance period saw Rome flourish as a hub of art, culture, and architecture, with contributions from figures like Michelangelo and Raphael.
+
+In the 19th century, Rome played a key role in the unification of Italy and was declared the capital of the Kingdom of Italy in 1871. Today, Rome is the capital city of Italy and a major cultural and historical center, attracting millions of visitors to its ancient ruins, museums, and landmarks.
+0.05930644167162193
+0.08284649075788718
+0.13007251677099022
+[Router] Best agent: math agent (score=0.130)
+Total time = 2 days/story × 20 stories = 40 days
